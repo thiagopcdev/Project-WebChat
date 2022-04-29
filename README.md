@@ -96,3 +96,14 @@ Neste projeto desenvolvi um _chat_ online e ao utilizar essa aplicação um usu�
       - Para os demais clientes, o nickname do cliente que acabou de se conectar deve ser colocado no final da lista.
   - A lista de clientes _online_ deve ser renderizada no `html` ao carregar a página;
   - Quando um cliente atualiza seu _nickname_ a lista de clientes deve ser atualizada para todos da mesma forma.
+
+### To run:
+
+1. Clone the repository
+  * `git clone git@github.com:thiagopcdev/Project-WebChat.git`
+2. Enter the repository folder you just cloned:
+  * `cd SD-012-WEBCHAT`
+3. Install the dependencies:
+  * `npm install`
+4. Run the program:
+  * `npm start`
